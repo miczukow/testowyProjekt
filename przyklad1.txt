@@ -1,2 +1,3 @@
+Zmiany zgodnie z zadaniem 1.7
 przyklad1.txt
 edycja zdalna
