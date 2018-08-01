@@ -1,1 +1,2 @@
 przyklad1.txt
+edycja zdalna
