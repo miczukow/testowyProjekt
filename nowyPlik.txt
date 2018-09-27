@@ -2,3 +2,4 @@ nowyPlik
 zmiana zrobiona przez kolegę
 aaa
 bbbb
+zacznij pullować chuju
